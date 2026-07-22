@@ -1,3 +1,4 @@
+
 # ChemSearch
 
 ChemSearch is a modern desktop application for chemistry researchers, students, laboratories, and educators. It combines molecular structure drawing, chemical database searching, literature discovery, reaction analysis, retrosynthesis, safety information, bioactivity data, and local chemical databases in a single Windows application.
@@ -5,7 +6,7 @@ ChemSearch is a modern desktop application for chemistry researchers, students, 
 Draw molecules and reactions using the integrated chemical editor or search by chemical name, CAS number, SMILES, InChI, InChIKey, DOI, or reaction. ChemSearch simultaneously searches multiple scientific resources and presents the results in one unified interface.
 
 The application supports public chemistry databases including PubChem, ChEMBL, ChEBI, Rhea, UniProt, Europe PMC, PubMed, Crossref, and OpenAlex. Optional connectors allow integration with licensed services such as CAS SciFinder and Elsevier Reaxys for users with valid institutional access.
-
+<img width="1536" height="1024" alt="ChatGPT Image 22  Juli 2026, 15_33_58" src="https://github.com/user-attachments/assets/7c904063-6e16-4731-a574-05fa399a36e5" />
 ## Key Features
 Integrated molecular and reaction editor
 Search by name, CAS, SMILES, InChI, InChIKey, DOI, or reaction
